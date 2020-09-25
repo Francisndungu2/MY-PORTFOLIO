@@ -1,10 +1,23 @@
-    #p1 {
-        font-size: 41px;
-        color: red;
-    }
-    
-    body {
-        background-color: bisque;
-        background-repeat: no-repeat;
-        background-size: cover;
-    }
+#p1 {
+    font-size: 13px;
+    color: red;
+    float: left;
+}
+
+.body {
+    background-color: bisque;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.dat {
+    display: flex;
+    padding: 15px;
+    background-color: rgba(32, 23, 53, 0.5);
+    padding-left: 150px;
+}
+
+.container ul li {
+    display: inline-block;
+    margin-right: 150px;
+}
