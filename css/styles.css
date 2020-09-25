@@ -2,3 +2,9 @@
         font-size: 41px;
         color: red;
     }
+    
+    body {
+        background-color: bisque;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
