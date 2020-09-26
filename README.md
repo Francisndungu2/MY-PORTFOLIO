@@ -6,13 +6,12 @@
 * Launch your browser
 * on your search bar white 
 * on github click the link and you ready to go.
----
-#### project image
-
----
 ### Git Hub Live Link
 *click to view my portfolio*
-
+ {https://francisndungu2.github.io/MY-PORTFOLIO/}
+ ## Technologies used
+ {HTML for creating website}
+ {css for styling website}
 ## Copyright and License
 MIT License
 Copyright (c) [2020] [Francis ndung'u mbugua]
