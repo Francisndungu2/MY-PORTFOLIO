@@ -44,3 +44,10 @@
 .dack {
     padding-left: 900PX;
 }
+
+.dwarp {
+    display: flex;
+    padding: 15px;
+    background-color: rgba(32, 23, 53, 0.5);
+    padding-left: 150px;
+}
